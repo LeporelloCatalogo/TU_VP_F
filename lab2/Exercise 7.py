@@ -18,4 +18,6 @@ if operation in ['*', '/', '+', '-']:
             print(f'{n} + {m} = {n+m}')
         case '-':
             print(f'{n} - {m} = {n-m}')
+else:
+    print('No such operation listed')
 
